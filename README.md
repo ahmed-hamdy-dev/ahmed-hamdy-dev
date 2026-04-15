@@ -1,6 +1,6 @@
 # Hi 👋, I'm Ahmed Hamdy
 
-### Senior PHP Software Engineer | Backend & Systems Specialist
+### Senior Backend Developer (PHP/Laravel/Zend) | Microservices | Multi-Tenant ERP | API Ecosystems
 
 I’m a senior backend engineer with 9+ years of experience designing and building scalable, secure, and high-performance systems. I focus on clean architecture, system reliability, and delivering production-ready solutions.
 
